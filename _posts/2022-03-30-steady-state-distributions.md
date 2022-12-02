@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Submitted: Steady-state distributions of nascent RNA for general initiation mechanisms"
 date: 2022-03-30
 ---
