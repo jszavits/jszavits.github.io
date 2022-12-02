@@ -14,5 +14,5 @@ I am especially interested in using kinetic modelling to infer the dynamics of g
 ## News
 
 {% for post in site.posts limit:3 %}
-{{ post.date | date: "%m-%d-%Y" }} [{{ post.title }}]({{ post.url }})
+{{ post.date | date: "%m-%d-%Y" }} {{ post.tag }}: [{{ post.title }}]({{ post.url }})
 {% endfor %}
