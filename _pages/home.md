@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: Welcome
 ---
+
+## Welcome
 
 I am a biophysicist based in the School of Biological Sciences at the University of Edinburgh, working in the research group of [Ramon Grima](https://grimagroup.bio.ed.ac.uk/home). 
 
