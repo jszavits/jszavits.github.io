@@ -10,3 +10,9 @@ My research focuses on noise in gene expression, where does it come from, how ce
 I have a background in nonequilibrium statistical physics, and an expertise in building and solving kinetic models of transcription and translation. 
 
 I am especially interested in using kinetic modelling to infer the dynamics of gene expression from live-cell imaging and sequencing data.
+
+## News
+
+{% for post in site.posts limit:3 %}
+{{ post.date }} {{ post.title }}
+{% endfor %}
