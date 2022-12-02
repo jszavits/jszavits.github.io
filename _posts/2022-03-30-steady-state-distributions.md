@@ -1,5 +1,5 @@
 ---
-title: "Submitted: Steady-state distributions of nascent RNA for general initiation mechanisms"
+title: "Steady-state distributions of nascent RNA for general initiation mechanisms"
 date: 2022-03-30
 tag: Submitted
 ---
