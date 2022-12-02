@@ -272,7 +272,7 @@
     display: block;
     content: "";
     position: absolute;
-    top: -11px;
+    top: 0px; /* -11px */
     left: calc(50% - 10px);
     width: 0;
     border-style: solid;
@@ -289,7 +289,7 @@
     display: block;
     content: "";
     position: absolute;
-    top: -10px;
+    top: 0px; /* -10px */
     left: calc(50% - 10px);
     width: 0;
     border-style: solid;
