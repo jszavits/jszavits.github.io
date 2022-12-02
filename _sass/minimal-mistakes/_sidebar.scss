@@ -134,13 +134,14 @@
   }
 
   img {
+    display: block;
     max-width: 200px;
     /* border-radius: 50%; */
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
-     }
+    }
   }
 }
 
@@ -187,7 +188,7 @@
 }
 
 .author__urls-wrapper {
-  position: absolute;
+  position: relative;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
