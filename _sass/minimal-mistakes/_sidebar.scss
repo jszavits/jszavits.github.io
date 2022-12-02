@@ -140,11 +140,7 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
-    }
-     
-    @include breakpoint($small) {
-      display: none;
-    }
+     }
   }
 }
 
@@ -191,7 +187,7 @@
 }
 
 .author__urls-wrapper {
-  position: relative;
+  position: absolute;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
