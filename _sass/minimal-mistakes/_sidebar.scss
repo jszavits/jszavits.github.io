@@ -148,18 +148,24 @@
 }
 
 .author__content {
-  display: table-cell;
+  /* display: table-cell;
   vertical-align: top;
-  padding-left: 0;
+  padding-left: 15px;
   padding-right: 25px;
+  line-height: 1; */
+  display: block;
+  vertical-align: top;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
   line-height: 1;
 
-  @include breakpoint($large) {
+  /* @include breakpoint($large) {
     display: block;
     width: 100%;
     padding-left: 0;
     padding-right: 0;
-  }
+  } */
 
   a {
     color: inherit;
