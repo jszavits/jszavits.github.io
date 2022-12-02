@@ -112,7 +112,7 @@ author:
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assests/pdf/Szavits-Nossan-CV.pdf"
+      url: "/assets/pdf/Szavits-Nossan-CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.uk/citations?user=hepr85QAAAAJ&hl=en"
