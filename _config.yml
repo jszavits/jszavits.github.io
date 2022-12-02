@@ -110,9 +110,6 @@ author:
   location         : # "Somewhere"
   email            : juraj.szavits.nossan@ed.ac.uk
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:juraj.szavits.nossan@ed.ac.uk"
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assests/pdf/Juraj-Szavits-Nossan-CV.pdf"
