@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/Juraj-Szavits-Nossan.jpg"
   bio              : "Postdoctoral Research Associate <br/> School of Biological Sciences <br/> University of Edinburgh <br/> Mayfield Road <br/> Edinburgh EH9 3JD <br/>Scotland"
   location         : # "Somewhere"
   email            : juraj.szavits.nossan@ed.ac.uk
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assests/pdf/Juraj-Szavits-Nossan-CV.pdf"
+      url: "/assests/pdf/Szavits-Nossan-CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.uk/citations?user=hepr85QAAAAJ&hl=en"
