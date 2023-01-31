@@ -8,12 +8,12 @@ title: "Publications"
 * Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
     Submitted to *Nucleic Acids Research*
-    
-* Steady-state distributions of nascent RNA for general initiation mechanisms<br/>
-    J. Szavits-Nossan and R. Grima<br/>
-    Submitted to *Phys. Rev. Research*
   
 ## Peer-reviewed:
+
+0. [Steady-state distributions of nascent RNA for general initiation mechanisms](https://doi.org/10.1103/PhysRevResearch.5.013064)<br/>
+    J. Szavits-Nossan and R. Grima<br/>
+    *Phys. Rev. Research* 5, 013064 (2023), 13pp<br />
 
 0. [Mean-field theory accurately captures the variation of copy number distributions across the mRNA’s life cycle](https://doi.org/10.1103/PhysRevE.105.014410)<br/>
     J. Szavits-Nossan and R. Grima<br/>
