@@ -5,6 +5,10 @@ title: "Publications"
 
 ## Under peer review:
 
+* Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers<br/>
+    J. Szavits-Nossan and R. Grima<br/>
+    [arXiv:2304.05304](http://arxiv.org/abs/2304.05304 ) (2023)<br/>
+    
 * Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
     Submitted to *Nucleic Acids Research*
