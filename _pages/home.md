@@ -13,6 +13,6 @@ I am particularly interested in mechanistic interpretation of live-cell imaging 
 
 ## Latest news
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
 {{ post.date | date: "%Y-%m-%d" }} {{ post.category }}: [{{ post.title }}]({{ post.url }})
 {% endfor %}
