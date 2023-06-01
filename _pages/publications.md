@@ -13,7 +13,7 @@ title: "Publications"
 
 0. [Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response](https://doi.org/10.1093/nar/gkad433)<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
-    *Nucleic Acids Research* gkad433 (2023)
+    *Nucleic Acids Research* gkad433 (2023), 12pp<br />
 
 0. [Steady-state distributions of nascent RNA for general initiation mechanisms](https://doi.org/10.1103/PhysRevResearch.5.013064)<br/>
     J. Szavits-Nossan and R. Grima<br/>
