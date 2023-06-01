@@ -8,12 +8,12 @@ title: "Publications"
 * Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers<br/>
     J. Szavits-Nossan and R. Grima<br/>
     [arXiv:2304.05304](http://arxiv.org/abs/2304.05304 ) (2023)<br/>
-    
-* Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response<br/>
-    X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
-    Submitted to *Nucleic Acids Research*
   
 ## Peer-reviewed:
+
+0. [Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response](https://doi.org/10.1093/nar/gkad433)<br/>
+    X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
+    *Nucleic Acids Research* gkad433 (2023)
 
 0. [Steady-state distributions of nascent RNA for general initiation mechanisms](https://doi.org/10.1103/PhysRevResearch.5.013064)<br/>
     J. Szavits-Nossan and R. Grima<br/>
