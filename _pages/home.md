@@ -11,7 +11,7 @@ I have a background in nonequilibrium statistical physics, and an expertise in b
 
 I am particularly interested in mechanistic interpretation of live-cell imaging and sequencing data using stochastic kinetic models of gene expression.
 
-## News
+## Latest news
 
 {% for post in site.posts limit:3 %}
 {{ post.date | date: "%Y-%m-%d" }} {{ post.category }}: [{{ post.title }}]({{ post.url }})
