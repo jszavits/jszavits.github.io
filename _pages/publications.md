@@ -5,9 +5,13 @@ title: "Publications"
 
 ## Under peer review:
 
+* Charting the landscape of stochastic gene expression models using queueing theory<br/>
+    J. Szavits-Nossan and R. Grima<br/>
+    [arXiv:2307.03253](https://arxiv.org/abs/2307.03253) (2023)<br/>
+
 * Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers<br/>
     J. Szavits-Nossan and R. Grima<br/>
-    [arXiv:2304.05304](http://arxiv.org/abs/2304.05304 ) (2023)<br/>
+    [arXiv:2304.05304](http://arxiv.org/abs/2304.05304) (2023)<br/>
   
 ## Peer-reviewed:
 
