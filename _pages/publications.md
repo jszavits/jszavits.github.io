@@ -12,12 +12,12 @@ title: "Publications"
 * Charting the landscape of stochastic gene expression models using queueing theory<br/>
     J. Szavits-Nossan and R. Grima<br/>
     [arXiv:2307.03253](https://arxiv.org/abs/2307.03253) (2023)<br/>
-
-* Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers<br/>
-    J. Szavits-Nossan and R. Grima<br/>
-    [arXiv:2304.05304](http://arxiv.org/abs/2304.05304) (2023)<br/>
   
 ## Peer-reviewed:
+
+0. [Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers](https://doi.org/10.1103/PhysRevE.108.034405)<br/>
+    J. Szavits-Nossan and R. Grima<br/>
+    *Phys. Rev. E* 108, 034405 (2023), 22pp<br />
 
 0. [Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response](https://doi.org/10.1093/nar/gkad433)<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
