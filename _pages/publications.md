@@ -5,15 +5,15 @@ title: "Publications"
 
 ## Under peer review:
 
-* TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process<br/>
-    Luca Ciandrini, Richmond L. Crisostomo, Juraj Szavits-Nossan<br/>
-    [arXiv:2308.00847](https://arxiv.org/abs/2308.00847) (2023)<br/>
-
 * Charting the landscape of stochastic gene expression models using queueing theory<br/>
     J. Szavits-Nossan and R. Grima<br/>
     [arXiv:2307.03253](https://arxiv.org/abs/2307.03253) (2023)<br/>
   
 ## Peer-reviewed:
+
+0. [TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process](https://doi.org/10.21468/SciPostPhysCodeb.22)<br/>
+    L. Ciandrini, R. L. Crisostomo and J. Szavits-Nossan<br/>
+    *SciPost Phys. Codebases* 22 (2023), 23pp<br/>
 
 0. [Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers](https://doi.org/10.1103/PhysRevE.108.034405)<br/>
     J. Szavits-Nossan and R. Grima<br/>
