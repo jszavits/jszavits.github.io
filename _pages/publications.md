@@ -6,7 +6,7 @@ title: "Publications"
 ## Under peer review:
 
 * Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression<br/>
-  Andrew G Nicoll, Juraj Szavits-Nossan, Martin R Evans, Ramon Grima<br/>
+  A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
   [biorxiv:2023.12.30.573521](https://doi.org/10.1101/2023.12.30.573521)<br/> 
 
 * Charting the landscape of stochastic gene expression models using queueing theory<br/>
