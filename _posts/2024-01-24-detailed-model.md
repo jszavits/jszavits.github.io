@@ -1,0 +1,9 @@
+---
+title: "Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction"
+date: 2024-01-24
+category: Preprint
+---
+
+*Muhan Ma, Juraj Szavits-Nossan, Abhyudai Singh, Ramon Grima*
+
+We introduce a biologically detailed, stochastic model of gene expression describing the multiple rate-limiting steps of transcription, nuclear pre-mRNA processing, nuclear mRNA export, cytoplasmic mRNA degradation and translation of mRNA into protein. The processes in sub-cellular compartments are described by an arbitrary number of processing stages, thus accounting for a significantly finer molecular description of gene expression than conventional models such as the telegraph, two-stage and three-stage models of gene expression. We use two distinct tools, queueing theory and model reduction using the slow-scale linear-noise approximation, to derive exact or approximate analytic expressions for the moments or distributions of nuclear mRNA, cytoplasmic mRNA and protein fluctuations, as well as lower bounds for their Fano factors in steady-state conditions. We use these to study the phase diagram of the stochastic model; in particular we derive parametric conditions determining three types of transitions in the properties of mRNA fluctuations: from sub-Poissonian to super-Poissonian noise, from high noise in the nucleus to high noise in the cytoplasm, and from a monotonic increase to a monotonic decrease of the Fano factor with the number of processing stages. In contrast, protein fluctuations are always super-Poissonian and show weak dependence on the number of mRNA processing stages. Our results delineate the region of parameter space where conventional models give qualitatively incorrect results and provide insight into how the number of processing stages, e.g. the number of rate-limiting steps in initiation, splicing and mRNA degradation, shape stochastic gene expression by modulation of molecular memory.
