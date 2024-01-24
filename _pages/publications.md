@@ -5,6 +5,10 @@ title: "Publications"
 
 ## Under peer review:
 
+* Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction<br/>
+  M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
+  [arXiv:2401.12661](https://arxiv.org/abs/2401.12661) (2023)<br/>
+
 * Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression<br/>
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
   [biorxiv:2023.12.30.573521](https://doi.org/10.1101/2023.12.30.573521) (2023)<br/> 
