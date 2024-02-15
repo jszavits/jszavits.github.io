@@ -13,7 +13,7 @@ title: "Publications"
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
   [biorxiv:2023.12.30.573521](https://doi.org/10.1101/2023.12.30.573521) (2023)<br/> 
 
-* Charting the landscape of stochastic gene expression models using queueing theory<br/>
+* Solving stochastic gene expression models using queueing theory: a tutorial review<br/>
   J. Szavits-Nossan and R. Grima<br/>
   [arXiv:2307.03253](https://arxiv.org/abs/2307.03253) (2023)<br/>
   
