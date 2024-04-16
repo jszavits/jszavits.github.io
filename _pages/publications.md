@@ -7,17 +7,17 @@ title: "Publications"
 
 * [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://arxiv.org/abs/2401.12661)<br/>
   M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
-  arXiv:2401.12661, 49pp (2024)
+  arXiv:2401.12661 (2024), 49pp
 
 * [Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression](https://doi.org/10.1101/2023.12.30.573521)<br/>
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
-  biorxiv:2023.12.30.573521, 33pp (2023)
+  biorxiv:2023.12.30.573521 (2023), 33pp
   
 ## Peer-reviewed:
 
 0. [Solving stochastic gene expression models using queueing theory: a tutorial review](https://www.cell.com/biophysj/pdf/S0006-3495(24)00248-0.pdf)<br/>
   J. Szavits-Nossan and R. Grima<br/>
-  Accepted for publication in *Biophysical Journal*, 32pp (2024)<br/>
+  Accepted for publication in *Biophysical Journal* (2024), 32pp<br/>
   **Literature Review**
 
 0. [TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process](https://doi.org/10.21468/SciPostPhysCodeb.22)<br/>
@@ -30,11 +30,11 @@ title: "Publications"
 
 0. [Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response](https://doi.org/10.1093/nar/gkad433)<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
-    *Nucleic Acids Research* gkad433 (2023), 12pp<br />
+    *Nucleic Acids Research* gkad433 (2023), 12pp
 
 0. [Steady-state distributions of nascent RNA for general initiation mechanisms](https://doi.org/10.1103/PhysRevResearch.5.013064)<br/>
     J. Szavits-Nossan and R. Grima<br/>
-    *Phys. Rev. Research* 5, 013064 (2023), 13pp<br />
+    *Phys. Rev. Research* 5, 013064 (2023), 13pp
 
 0. [Mean-field theory accurately captures the variation of copy number distributions across the mRNA’s life cycle](https://doi.org/10.1103/PhysRevE.105.014410)<br/>
     J. Szavits-Nossan and R. Grima<br/>
