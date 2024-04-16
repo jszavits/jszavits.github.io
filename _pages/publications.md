@@ -12,12 +12,12 @@ title: "Publications"
 * Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression<br/>
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
   [biorxiv:2023.12.30.573521](https://doi.org/10.1101/2023.12.30.573521) (2023)<br/> 
-
-* Solving stochastic gene expression models using queueing theory: a tutorial review<br/>
-  J. Szavits-Nossan and R. Grima<br/>
-  [arXiv:2307.03253](https://arxiv.org/abs/2307.03253) (2023)<br/>
   
 ## Peer-reviewed:
+
+0. Solving stochastic gene expression models using queueing theory: a tutorial review<br/>
+  J. Szavits-Nossan and R. Grima<br/>
+  Accepted for publication in Biophysical Journal (2024)<br/>
 
 0. [TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process](https://doi.org/10.21468/SciPostPhysCodeb.22)<br/>
     L. Ciandrini, R. L. Crisostomo and J. Szavits-Nossan<br/>
