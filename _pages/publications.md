@@ -110,6 +110,7 @@ title: "Publications"
 0. [Totally asymmetric exclusion process with long-range hopping](http://dx.doi.org/10.1103/PhysRevE%2E74%2E051104)<br/>
     J. Szavits-Nossan and K. Uzelac<br/>
     *Phys. Rev. E* 74, 051104 (2006), 8pp
+
 {: reversed="reversed"}
 
 ## Doctoral thesis:
