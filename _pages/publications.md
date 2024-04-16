@@ -5,27 +5,28 @@ title: "Publications"
 
 ## Under peer review:
 
-* Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction<br/>
+* [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://arxiv.org/abs/2401.12661)<br/>
   M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
-  [arXiv:2401.12661](https://arxiv.org/abs/2401.12661) (2024)<br/>
+  arXiv:2401.12661, 49pp (2024)
 
-* Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression<br/>
+* [Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression](https://doi.org/10.1101/2023.12.30.573521)<br/>
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
-  [biorxiv:2023.12.30.573521](https://doi.org/10.1101/2023.12.30.573521) (2023)<br/> 
+  biorxiv:2023.12.30.573521, 33pp (2023)
   
 ## Peer-reviewed:
 
 0. [Solving stochastic gene expression models using queueing theory: a tutorial review](https://www.cell.com/biophysj/pdf/S0006-3495(24)00248-0.pdf)<br/>
   J. Szavits-Nossan and R. Grima<br/>
-  Accepted for publication in *Biophysical Journal* (2024)<br/>
+  Accepted for publication in *Biophysical Journal*, 32pp (2024)<br/>
+  **Literature Review**
 
 0. [TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process](https://doi.org/10.21468/SciPostPhysCodeb.22)<br/>
     L. Ciandrini, R. L. Crisostomo and J. Szavits-Nossan<br/>
-    *SciPost Phys. Codebases* 22 (2023), 23pp<br/>
+    *SciPost Phys. Codebases* 22 (2023), 23pp
 
 0. [Uncovering the effect of RNA polymerase steric interactions on gene expression noise: analytical distributions of nascent and mature RNA numbers](https://doi.org/10.1103/PhysRevE.108.034405)<br/>
     J. Szavits-Nossan and R. Grima<br/>
-    *Phys. Rev. E* 108, 034405 (2023), 22pp<br />
+    *Phys. Rev. E* 108, 034405 (2023), 22pp
 
 0. [Stochastic scanning events on the GCN4 mRNA 5’ untranslated region generate cell-to-cell heterogeneity in the yeast nutritional stress response](https://doi.org/10.1093/nar/gkad433)<br/>
     X. Meng, A. Reed, J. Szavits-Nossan and J. McCarthy<br/>
