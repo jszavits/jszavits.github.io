@@ -15,7 +15,7 @@ title: "Publications"
   
 ## Peer-reviewed:
 
-0. [Solving stochastic gene expression models using queueing theory: a tutorial review]([https://www.cell.com/biophysj/pdf/S0006-3495(24)00248-0.pdf](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00248-0))<br/>
+0. [Solving stochastic gene expression models using queueing theory: a tutorial review](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00248-0)<br/>
   J. Szavits-Nossan and R. Grima<br/>
   Accepted for publication in *Biophysical Journal* (2024), 32pp<br/>
   **Literature Review**
