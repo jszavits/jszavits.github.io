@@ -6,7 +6,7 @@ title: "Publications"
 ## Under peer review:
 
 * [Joint distribution of nuclear and cytoplasmic mRNA levels in stochastic models of gene expression: analytical results and parameter inference](https://doi.org/10.1101/2024.04.29.591679 )<br/>
-  Y. Wang, J. Szavits-Nossan, Z. Cao and R. Grima
+  Y. Wang, J. Szavits-Nossan, Z. Cao and R. Grima<br/>
   bioRxiv 2024.04.29.591679 (2024), 17pp
 
 * [Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression](https://doi.org/10.1101/2023.12.30.573521)<br/>
