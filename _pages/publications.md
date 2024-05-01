@@ -5,15 +5,19 @@ title: "Publications"
 
 ## Under peer review:
 
-* [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://arxiv.org/abs/2401.12661)<br/>
-  M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
-  arXiv:2401.12661 (2024), 49pp
+* [Joint distribution of nuclear and cytoplasmic mRNA levels in stochastic models of gene expression: analytical results and parameter inference](https://doi.org/10.1101/2024.04.29.591679 )<br/>
+  Y. Wang, J. Szavits-Nossan, Z. Cao and R. Grima
+  bioRxiv 2024.04.29.591679 (2024), 17pp
 
 * [Transient power-law behaviour following induction distinguishes between competing models of stochastic gene expression](https://doi.org/10.1101/2023.12.30.573521)<br/>
   A. G. Nicoll, J. Szavits-Nossan, M. R. Evans, R. Grima<br/>
   biorxiv:2023.12.30.573521 (2023), 33pp
   
 ## Peer-reviewed:
+
+0. [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://arxiv.org/abs/2401.12661)<br/>
+  M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
+  Accepted for publication in Mathematical Biosciences (2024), 49pp
 
 0. [Solving stochastic gene expression models using queueing theory: a tutorial review](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00248-0)<br/>
   J. Szavits-Nossan and R. Grima<br/>
