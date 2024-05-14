@@ -15,7 +15,7 @@ title: "Publications"
   
 ## Peer-reviewed:
 
-0. [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://arxiv.org/abs/2401.12661)<br/>
+0. [Analysis of a detailed multi-stage model of stochastic gene expression using queueing theory and model reduction](https://doi.org/10.1016/j.mbs.2024.109204)<br/>
   M. Ma, J. Szavits-Nossan, A. Singh, R. Grima<br/>
   Accepted for publication in *Mathematical Biosciences* (2024), 49pp
 
