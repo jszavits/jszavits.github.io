@@ -21,7 +21,7 @@ title: "Publications"
 
 0. [Solving stochastic gene expression models using queueing theory: a tutorial review](https://www.cell.com/biophysj/fulltext/S0006-3495(24)00248-0)<br/>
   J. Szavits-Nossan and R. Grima<br/>
-  *Biophysical Journal* 123(9) 1034-1057 (2024), 32pp<br/>
+  *Biophysical Journal* 123(9), 1034-1057 (2024), 32pp<br/>
   **Literature Review**
 
 0. [TASEPy: a Python-based package to iteratively solve the inhomogeneous exclusion process](https://doi.org/10.21468/SciPostPhysCodeb.22)<br/>
