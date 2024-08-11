@@ -7,7 +7,7 @@ I am a data scientist at [Oldbaum Services](http://www.oldbaumservices.co.uk/), 
 
 Previously, I worked as a researcher at the University of Edinburgh, first at the School of Physics and Astronomy, and later at the School of Biological Sciences in the research group of [Ramon Grima](https://grimagroup.bio.ed.ac.uk/home). 
 
-I have a PhD in statistical physics from the Faculy to Science at the University of Zagreb.
+I have a PhD in statistical physics from the Faculy of Science at the University of Zagreb.
 
 ## Latest news
 
