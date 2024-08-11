@@ -106,8 +106,8 @@ analytics:
 author:
   name             : 
   avatar           : "/assets/img/Juraj-Szavits-Nossan-200x200.jpg"
-  bio              : "Data Scientist"
-  location         : "Oldbaum Services<br/>Stirling Business Centre<br/>Wellgreen Rd<br/>Stirling FK8 2DZ"
+  bio              : "Data Scientist<br/>Oldbaum Services"
+  location         : "Stirling Business Centre<br/>Wellgreen Rd<br/>Stirling FK8 2DZ"
   email            : j.szavits-nossan@oldbaum.co.uk
   links:
    # - label: "Curriculum Vitae"
