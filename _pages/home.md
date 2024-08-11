@@ -3,13 +3,7 @@ permalink: /
 title: "Welcome"
 ---
 
-I am a biophysicist based in the School of Biological Sciences at the University of Edinburgh, working in the research group of [Ramon Grima](https://grimagroup.bio.ed.ac.uk/home). 
-
-My research focuses on noise in gene expression, how cells cope with it, and what consequences does it have for the regulation of gene expression and ultimately human health.
-
-I have a background in nonequilibrium statistical physics, and an expertise in building and solving kinetic models of transcription and translation. 
-
-I am particularly interested in applying mechanistic models of gene expression to live-cell imaging and sequencing data in order to understand how gene expression is orchestrated and regulated in time. 
+I am a data scientist at [Oldbaum Services](http://www.oldbaumservices.co.uk/), specializing in Lidar data analysis for wind energy industry. Previously, I worked as a researcher at the University of Edinburgh, first at the School of Physics and Astronomy, and later at the School of Biological Sciences in the research group of [Ramon Grima](https://grimagroup.bio.ed.ac.uk/home). I have a PhD in statistical physics from the University of Zagreb.
 
 ## Latest news
 
