@@ -69,7 +69,7 @@ title: "Publications"
     J. Szavits-Nossan, L. Ciandrini and M. Carmen Romano<br/>
     *Phys. Rev. Lett.* 120, 128101 (2018), 6pp
     
-0. [Conditioned random walks and interaction-driven condensation](Conditioned random walks and interaction-driven condensation)<br/>
+0. [Conditioned random walks and interaction-driven condensation](https://doi.org/10.1088/1751-8121/50/2/024005)<br/>
     J. Szavits-Nossan, M. R. Evans and S. N. Majumdar<br/>
     *J. Phys. A: Math. Theor.* 50 024005 (2017), 28 pp<br/>
     **Selected for the “Emerging Talents” collection**
